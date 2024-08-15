@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Yonatan, a passionate software engineering student at McGill University, with a strong interest in building innovative applications and exploring new technologies!
+
+- 🔭 I’m currently working on a book management app using Swift and SwiftUI
+- 🧑‍💻 Actively seeking internship opportunities for the Summer 2025 semester to apply my skills and gain valuable experience
+- 🌱 I’m currently learning Cloud and Mobile Development
+
+Feel free to check out my projects below. If you have any questions or would like to connect, don’t hesitate to reach out!
