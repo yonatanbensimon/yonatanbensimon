@@ -19,6 +19,6 @@ I'm Yonatan, a passionate software engineering student at McGill University, wit
 
 - 🔭 I’m currently working on a book management app using Swift and SwiftUI
 - 🧑‍💻 Actively seeking internship opportunities for the Summer 2025 semester to apply my skills and gain valuable experience
-- 🌱 I’m currently learning Cloud and Mobile Development
+- 🌱 I’m currently learning Cloud, Mobile and Game Development
 
 Feel free to check out my projects below. If you have any questions or would like to connect, don’t hesitate to reach out!
